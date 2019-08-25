@@ -1,0 +1,56 @@
+body{
+  background-color: lightgrey;
+}
+
+.horizontal_line
+{
+  border-bottom: 2px solid darkturquoise;
+  height: 5px;
+}
+
+.figure
+{
+  background-color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius:10;
+}
+
+.figure2
+{
+  background-color: white;
+  /* margin-left: 2px;
+  margin-right: 2px; */
+  border-radius:10;
+}
+
+
+.my-navbar
+{
+   background:white;
+   border-radius:0;
+   border:0;
+
+}
+
+.my-navbar .navbar-brand
+{
+    color:white;
+    background:darkturquoise;
+    border-radius:10;
+}
+
+.dropdown-menu {
+    background:white;
+}
+
+.box_index .index_par1
+{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: justify;
+    font:50px;
+    color: darkblue;
+  }
