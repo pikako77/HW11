@@ -2,6 +2,10 @@ body{
   background-color: lightgrey;
 }
 
+.white_background{
+  background-color: white;
+  border-radius:10;
+}
 .horizontal_line
 {
   border-bottom: 2px solid darkturquoise;
@@ -15,15 +19,6 @@ body{
   margin-right: 5px;
   border-radius:10;
 }
-
-.figure2
-{
-  background-color: white;
-  /* margin-left: 2px;
-  margin-right: 2px; */
-  border-radius:10;
-}
-
 
 .my-navbar
 {
@@ -53,4 +48,22 @@ body{
     text-align: justify;
     font:50px;
     color: darkblue;
-  }
+}
+
+.comp_fig_title
+{
+    color:darkturquoise;
+    border-radius:10;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: -10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.comp_comment
+{
+    margin-top: 30px;
+    margin-bottom: -5px;
+    margin-left: 30px;
+}
