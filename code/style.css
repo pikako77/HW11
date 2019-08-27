@@ -1,10 +1,22 @@
+
+@media (min-width: 1200px) {
+  body {
+      background-color: lightgrey;
+
+  }
+}
+
+@media (max-width: 900px) {
 body{
-  background-color: lightgrey;
+
+  background-color: white;
+}
 }
 
 .white_background{
   background-color: white;
-  border-radius:10;
+  border-radius: 20;
+
 }
 .horizontal_line
 {
@@ -66,4 +78,35 @@ body{
     margin-top: 30px;
     margin-bottom: -5px;
     margin-left: 30px;
+}
+
+.table
+{
+  background-color: white;
+  border-radius: 20;
+}
+
+.page_title
+{
+  color:darkturquoise;
+  font-weight: 600;
+  
+}
+
+.table_text
+{
+  font-weight: 100;
+  font-size: 110%;
+  margin-top:2%;
+  margin-bottom:2%;
+}
+
+.container
+{
+  border-radius: 20;
+}
+
+.left_margin
+{
+  margin-left: 2%;
 }
