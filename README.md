@@ -18,3 +18,6 @@ The data used in data page were formatted using pythong. Scripts are stored in:
 code/data_script/read_csv.py </br>
 
 Screenshots of the pages are save in "Web_capture/" folder for "normal" size page and small size.
+
+Live page is hosted at: 
+https://pikako77.github.io/index.html
